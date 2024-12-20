@@ -1,4 +1,4 @@
-# Download Dataset First!
+# Download Datasets First!
 
 python -m app.main \
   --fname configs/pretrain/vitl16_0.yaml \
